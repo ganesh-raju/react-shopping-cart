@@ -5,3 +5,4 @@ React project
 - Thunk
 - Select
 - Firebase
+- React persistant
